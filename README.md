@@ -1,6 +1,6 @@
 # chinalist
 
-适用于 SwitchyOmega 的白名单规则
+适用于 SwitchyOmega 的白名单规则 [chinalist.txt](https://raw.githubusercontent.com/LucienShui/chinalist/gh-pages/chinalist.txt)
 
 ## Reference
 
