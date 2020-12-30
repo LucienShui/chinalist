@@ -30,4 +30,4 @@ jobs:
         git config user.email "lucien@lucien.ink"
         git add --all
         if ! git commit -m "Sync at `TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S'`"; then exit 0; fi
-        git push https://"${{ secrets.GH_TOKEN}}"@"github.com/${{ github.repository }}.git" ${{ secrets.DIST_BRANCH }}
+        git push -f https://"${{ secrets.GH_TOKEN}}"@"github.com/${{ github.repository }}.git" ${{ secrets.DIST_BRANCH }}
