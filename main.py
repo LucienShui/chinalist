@@ -18,11 +18,12 @@ def main():
     lucien_list: typing.List[str] = get_lucien_list()
 
     omega_china_list: typing.List[str] = [*map(lambda each: f'||{each}', lucien_list + china_list)]
-    prefix: typing.List[str] = [
+
+    header: typing.List[str] = [
         f'! Last Modified: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}'
     ]
 
-    content = '\n'.join(prefix + omega_china_list)
+    content = '\n'.join(header + sorted(omega_china_list))
 
     with open('chinalist.txt', 'w') as file:
         file.write(content)
