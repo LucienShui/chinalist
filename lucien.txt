@@ -16,3 +16,4 @@ bt.cn
 dnspod.cn
 m-team.cc
 btschool.club
+newtab
