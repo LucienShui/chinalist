@@ -1,4 +1,4 @@
-! Last Modified: 2021-06-11 00:45:14
+! Last Modified: 2021-06-12 00:40:50
 ||0-100.com
 ||0-6.com
 ||0-gold.net
@@ -4172,7 +4172,6 @@
 ||51biaoqing.com
 ||51biz.com
 ||51bjrc.com
-||51blackberry.com
 ||51bmb.com
 ||51bonli.com
 ||51bos.com
@@ -12918,7 +12917,6 @@
 ||bstzcs.com
 ||bsurl.cc
 ||bswxue.com
-||bsx81.com
 ||bsyjrb.com
 ||bt.cc
 ||bt.cn
@@ -12955,7 +12953,6 @@
 ||btgame01.com
 ||btgang.com
 ||btglotto.com
-||btgms.com
 ||bthcywj.com
 ||bthhotels.com
 ||bthlt.com
@@ -16186,7 +16183,6 @@
 ||ciliguanjia.cyou
 ||cilin.org
 ||cilogo.com
-||ciluwx.com
 ||cim2025.net
 ||cimc.com
 ||ciming-bj.com
@@ -18888,6 +18884,7 @@
 ||dancihu.com
 ||dancingcg.com
 ||dandanjiang.tv
+||dandanman.com
 ||dandanplay.com
 ||dandanplay.net
 ||dandantang.com
@@ -22653,7 +22650,6 @@
 ||ewanshang.com
 ||ewarecomputer.com
 ||ewatt.com
-||ewcache.com
 ||ewceo.com
 ||ewdcloud.com
 ||ewdtx.com
@@ -24402,6 +24398,7 @@
 ||fulu.com
 ||fumake.com
 ||fuman8.net
+||fumanyou.cc
 ||fumi.com
 ||fumu.com
 ||fumubang.com
@@ -28708,7 +28705,6 @@
 ||hitfmfans.com
 ||hitgk.com
 ||hitnology.com
-||hitnslab.xyz
 ||hitokoto.us
 ||hitouch.com
 ||hitsword.org
@@ -28830,7 +28826,6 @@
 ||hkyykq.com
 ||hkzlcm.com
 ||hl-brushes.com
-||hl6799.com
 ||hl95.com
 ||hld-marathon.com
 ||hldbtv.com
@@ -29410,6 +29405,7 @@
 ||hqyun.com
 ||hqz.com
 ||hqzbcn.com
+||hr-channel.com
 ||hr-mp.com
 ||hr1000.com
 ||hr135.com
@@ -30878,7 +30874,6 @@
 ||icafebolger.com
 ||icaidao.com
 ||icaifu.com
-||icaikee.com
 ||icaile.com
 ||ican-contest.org
 ||icandata.com
@@ -36039,7 +36034,6 @@
 ||khesport.com
 ||khews.com
 ||khlysc.com
-||khm123.com
 ||khotyn.com
 ||khqihuo.com
 ||khs1994.com
@@ -57568,6 +57562,7 @@
 ||vysj.com
 ||vyuan8.com
 ||vyun.com
+||vzaihua.com
 ||vzan.cc
 ||vzan.com
 ||vzhang.net
@@ -63225,7 +63220,6 @@
 ||xzxw.com
 ||xzyhealth.com
 ||xzymoe.com
-||xzz.me
 ||xzzanggong.com
 ||xzzp.net
 ||y-os.net
@@ -68200,6 +68194,7 @@
 ||zkteco.com
 ||zkteco.xin
 ||zktimecube.com
+||zktsg.com
 ||zktw.com
 ||zku.net
 ||zkunet.com
