@@ -1,4 +1,4 @@
-! Last Modified: 2021-07-03 00:45:35
+! Last Modified: 2021-07-04 00:47:32
 ||0-100.com
 ||0-6.com
 ||0-gold.net
@@ -2518,7 +2518,6 @@
 ||24jz.com
 ||24k99.com
 ||24ker.com
-||24korange.com
 ||24kplus.com
 ||24kwx.com
 ||24maker.com
@@ -5891,7 +5890,6 @@
 ||67lm.com
 ||67mb.com
 ||67mo.com
-||67tuan.com
 ||67wanwan.com
 ||67yes.com
 ||68.com
@@ -6990,7 +6988,6 @@
 ||8pu.com
 ||8qwe5.com
 ||8qwx.com
-||8ruiyou.com
 ||8s123.com
 ||8s8s.com
 ||8s8s.net
@@ -8349,7 +8346,6 @@
 ||aecichina.com
 ||aeenets.com
 ||aegcar.com
-||aegins-dns.net
 ||aegins.net
 ||aehyok.com
 ||aemedia.org
@@ -11445,6 +11441,7 @@
 ||bestdo.com
 ||bestdvd.com.tw
 ||bestebookdownload.com
+||bestedm.net
 ||bestedm.org
 ||bestexpresser.com
 ||bestfangchan.com
@@ -14349,6 +14346,7 @@
 ||ceshi112.com
 ||ceshigo.com
 ||ceshigu.com
+||ceshiren.com
 ||cespc.com
 ||cesses.org
 ||cet-46.com
@@ -22094,7 +22092,6 @@
 ||emao.net
 ||emarbox.com
 ||emaup.com
-||emb168.com
 ||embbnux.com
 ||embcom.net
 ||embed.cc
@@ -23939,7 +23936,6 @@
 ||fohee.net
 ||fokan88.com
 ||folieyun.com
-||folkw.com
 ||foloda.com
 ||folou.com
 ||fomen123.com
@@ -26541,7 +26537,6 @@
 ||guzzservices.com
 ||gvi-tech.com
 ||gvlocalization.com
-||gvt1.com
 ||gw-ec.com
 ||gw2field.com
 ||gw2sc.com
@@ -26974,6 +26969,7 @@
 ||hadns.net
 ||hadobi.com
 ||hadsky.com
+||hadyang.com
 ||haers.com
 ||haguan.com
 ||haguotu.com
@@ -29413,7 +29409,6 @@
 ||hsmrt.com
 ||hsoow.com
 ||hspress.net
-||hsqds.com
 ||hsr2013.com
 ||hssdg.com
 ||hssdtest.com
@@ -31044,7 +31039,6 @@
 ||idler-et.com
 ||idm.cc
 ||idmchina.net
-||idmdm.com
 ||idn100.com
 ||idname.com
 ||idnscloud.com
@@ -31140,7 +31134,6 @@
 ||iemblog.com
 ||ienjoys.com
 ||ienjoys.mobi
-||ieplconn.com
 ||ierhou.com
 ||iermu.com
 ||iershoushu.com
@@ -34167,7 +34160,6 @@
 ||jjwxc.org
 ||jjx88.net
 ||jjxj.org
-||jjxsw.la
 ||jjxwzk.org
 ||jjxyls.com
 ||jjy118.com
@@ -37198,7 +37190,6 @@
 ||laruence.com
 ||laryoo.com
 ||lascn.net
-||laser-cnc.com
 ||laser568.com
 ||laserfair.com
 ||lashou.com
@@ -37762,6 +37753,7 @@
 ||lhtjyy.com
 ||lhwill.com
 ||lhwytj.com
+||lhy1.xyz
 ||lhzq.com
 ||li-ca.com
 ||li-ning.com
@@ -38581,6 +38573,7 @@
 ||llku.com
 ||llllsj.com
 ||llqzg.net
+||lls.moe
 ||llsapp.com
 ||llscdn.com
 ||llsops.com
@@ -39485,7 +39478,6 @@
 ||lydfyjhotel.com
 ||lydhb888.com
 ||lydsy.com
-||lydzpb.com
 ||lyecs.com
 ||lyfczxw.com
 ||lyfff.com
@@ -41655,6 +41647,7 @@
 ||morevfx.com
 ||morewis.com
 ||morewiscloud.com
+||morfast.net
 ||morigames.com
 ||moring.pw
 ||morketing.com
@@ -46677,7 +46670,6 @@
 ||qingzhiwenku.com
 ||qingzhouaote.com
 ||qingzhu.co
-||qingzhuyi.com
 ||qiniao.com
 ||qiniu.com
 ||qiniu.in
@@ -47917,6 +47909,7 @@
 ||rediao.com
 ||redicecn.com
 ||redidc.com
+||redirector.gvt1.com
 ||redisbook.com
 ||redisdoc.com
 ||redisfans.com
@@ -52528,7 +52521,6 @@
 ||sunyet.com
 ||sunyingchao.com
 ||sunyongfeng.com
-||sunyor.net
 ||sunzhengyi.net
 ||sunzhongwei.com
 ||suo.im
@@ -58542,7 +58534,6 @@
 ||wetv.vip
 ||wetvinfo.com
 ||wewean.com
-||wewen.io
 ||wex5.com
 ||wexin.com
 ||wey.com
@@ -58794,7 +58785,6 @@
 ||whmcwd.com
 ||whmcxh.org
 ||whmeigao.com
-||whmeiyugao.com
 ||whmetroad.com
 ||whmicrocredit.com
 ||whmid.net
@@ -61777,6 +61767,7 @@
 ||xiqimi.com
 ||xiqingji.com
 ||xiqinrc.com
+||xiqqq.com
 ||xirang.com
 ||xirenxuan.com
 ||xishanju.com
@@ -63439,6 +63430,7 @@
 ||yeeyk.com
 ||yeezhe.com
 ||yef2.vip
+||yefeiyexs.com
 ||yefu365.com
 ||yegame.com
 ||yegenyou.com
@@ -68498,6 +68490,7 @@
 ||zuoyexingchen.com
 ||zupig.com
 ||zupuk.com
+||zupulu.com
 ||zutianke.com
 ||zutiyu.com
 ||zuulee.com
